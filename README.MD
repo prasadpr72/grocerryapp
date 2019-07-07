@@ -4,7 +4,7 @@
 This where new users can be added
 
 ### 2.Grocerry Lineitem bill generation (discounts) "/addBill"
-Sample           | 
+Sample 
 :---------------------:
 {
 	"price":400.44,
