@@ -4,13 +4,12 @@
 This where new users can be added
 
 ### 2.Grocerry Lineitem bill generation (discounts) "/addBill"
-Sample 
-:---------------------:
-!{
+Sample Request
+{
 	"price":400.44,
 	"productName":"Oil",
 	"custId":3
-}|
+}
  and generates json object as response
  
  
