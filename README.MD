@@ -1,9 +1,9 @@
-#Grocerry App
-#App Consists of two apis
-###1.Adding user api  "/addUser"
+# Grocerry App
+# App Consists of two apis
+### 1.Adding user api  "/addUser"
 This where new users can be added
 
-###2.Grocerry Lineitem bill generation (discounts) "/addBill"
+### 2.Grocerry Lineitem bill generation (discounts) "/addBill"
 Sample           | 
 :---------------------:
 {
